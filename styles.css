@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #f0ece2;
+  }
+  
+  .header {
+    width: 100%;
+    border: 1px solid #c4c1e0;
+    background-color: #c4c1e0;
+    color: rgb(19, 19, 18);
+    position: static;
+  }
+  
+  h2 {
+    font-size: 4vh;
+    font-weight: 400;
+    word-spacing: 6px;
+  }
+  
